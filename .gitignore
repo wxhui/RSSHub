@@ -13,7 +13,6 @@ tmp
 *.swp
 *.iml
 coverage
-.env
 app-minimal/
 Session.vim
 
